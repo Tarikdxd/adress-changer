@@ -1,6 +1,6 @@
-﻿namespace Kanser_Unbanner
+﻿namespace Tarikdxd_Unbanner
 {
-    partial class Kanser
+    partial class Tarikdxd
     {
         /// <summary>
         /// Required designer variable.
@@ -105,7 +105,7 @@
             this.gunaLabel1.Name = "gunaLabel1";
             this.gunaLabel1.Size = new System.Drawing.Size(194, 25);
             this.gunaLabel1.TabIndex = 2;
-            this.gunaLabel1.Text = "Mustangs Unbanner";
+            this.gunaLabel1.Text = "Tarikdxd Unbanner";
             // 
             // gunaLabel2
             // 
@@ -450,16 +450,16 @@
             // 
             this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
             // 
-            // Mustangs
+            // Tarikdxd
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(672, 449);
             this.Controls.Add(this.gunaLinePanel1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
-            this.Name = "Mustangs";
+            this.Name = "Tarikdxd";
             this.Text = "Form1";
-            this.Load += new System.EventHandler(this.Mustangs_Load);
+            this.Load += new System.EventHandler(this.Tarikdxd_Load);
             this.gunaLinePanel1.ResumeLayout(false);
             this.gunaLinePanel1.PerformLayout();
             this.ResumeLayout(false);
