@@ -1,0 +1,12 @@
+C:\Users\ASUS\source\repos\Tarikdxd Unbanner\bin\Debug\Tarikdxd Unbanner.exe.config
+C:\Users\ASUS\source\repos\Tarikdxd Unbanner\bin\Debug\Tarikdxd Unbanner.exe
+C:\Users\ASUS\source\repos\Tarikdxd Unbanner\bin\Debug\Tarikdxd Unbanner.pdb
+C:\Users\ASUS\source\repos\Tarikdxd Unbanner\bin\Debug\Guna.UI.dll
+C:\Users\ASUS\source\repos\Tarikdxd Unbanner\bin\Debug\Guna.UI.pdb
+C:\Users\ASUS\source\repos\Tarikdxd Unbanner\obj\Debug\Tarikdxd Unbanner.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\Tarikdxd Unbanner\obj\Debug\Tarikdxd_Unbanner.Mustangs.resources
+C:\Users\ASUS\source\repos\Tarikdxd Unbanner\obj\Debug\Tarikdxd_Unbanner.Properties.Resources.resources
+C:\Users\ASUS\source\repos\Tarikdxd Unbanner\obj\Debug\Tarikdxd Unbanner.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Tarikdxd Unbanner\obj\Debug\Tarikdxd Unbanner.csproj.CopyComplete
+C:\Users\ASUS\source\repos\Tarikdxd Unbanner\obj\Debug\Tarikdxd Unbanner.exe
+C:\Users\ASUS\source\repos\Tarikdxd Unbanner\obj\Debug\Tarikdxd Unbanner.pdb
