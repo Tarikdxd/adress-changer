@@ -15,11 +15,11 @@ using System.Text.RegularExpressions;
 using System.Net.NetworkInformation;
 using System.Management;
 
-namespace Mustangs_Unbanner
+namespace Tarikdxd_Unbanner
 {
-    public partial class Mustangs : Form
+    public partial class Tarikdxd : Form
     {
-        public Mustangs()
+        public Tarikdxd()
         {
             InitializeComponent();
         }
@@ -279,7 +279,7 @@ namespace Mustangs_Unbanner
             // ignore this
         }
 
-        private void Mustangs_Load(object sender, EventArgs e)
+        private void Tarikdxd_Load(object sender, EventArgs e)
         {
             /* Windows generally seems to add a number of non-physical devices, of which
              * we would not want to change the address. Most of them have an impossible
