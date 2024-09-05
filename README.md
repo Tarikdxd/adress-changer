@@ -4,7 +4,7 @@ Banları kaldıran & MAC'i değiştiren bir TOOL.
 
 ## Duyurular :
 
-**Permament olmayan growtopia banlarını da kaldırır.**
+**Permament olmayan growtopia banlarını kaldırır.**
 
 ## Preview :
 ![Banners icons](https://github.com/user-attachments/assets/91346082-9523-4e93-8077-62885002ff77)
