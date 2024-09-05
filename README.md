@@ -2,9 +2,9 @@
 Growtopia için yapılmış olsada başka oyunlardaki banları da kaldırabilir,
 Banları kaldıran & MAC'i değiştiren bir TOOL.
 
-## Duyurular :
+## Duyuru :
 
 **Permament olmayan growtopia banlarını kaldırır.**
 
-## Preview :
-![resim](https://github.com/user-attachments/assets/ce126057-defc-430a-8371-2651d1638ce8)
+## SPECIAL THANKS :
+![standard(1)](https://github.com/user-attachments/assets/0ed77257-53db-4801-ba62-42f1f17ca003)
