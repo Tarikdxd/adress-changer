@@ -1,6 +1,6 @@
-﻿namespace Mustangs_Unbanner
+﻿namespace Kanser_Unbanner
 {
-    partial class Mustangs
+    partial class Kanser
     {
         /// <summary>
         /// Required designer variable.
