@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Mustangs_Unbanner.Properties
+namespace Tarikdxd_Unbanner.Properties
 {
 
 
